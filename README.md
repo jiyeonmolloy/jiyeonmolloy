@@ -8,9 +8,7 @@
 How are you? I'm a DevOps Engineer! 
 
 <div>  
-  <img height="300" align="middle" src="https://i.pinimg.com/564x/a7/ff/17/a7ff1754bb8899f915c83d635500e9ea.jpg" />
   <img height="300" align="middle" src="https://data.whicdn.com/images/332407561/original.jpg" />
-  <img height="300" align="middle" src="https://i.pinimg.com/564x/13/53/52/135352a4bbd9372c5d802e919329f285.jpg" />
 </div>
 <br/>
 <div>
