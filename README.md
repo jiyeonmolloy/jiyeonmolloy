@@ -4,13 +4,16 @@
 [![LeetCode Badge](https://img.shields.io/badge/-Jiii-black?style=flat-square&logo=LeetCode&link=https://leetcode.com/jiii/)](https://leetcode.com/jiii/)
 [![Dev Badge](https://img.shields.io/badge/-Ji-ff69b4?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/jidevops)](https://dev.to/jidevops)
 
-
 How are you? I'm a DevOps Engineer! 
 
 <div>  
   <img height="300" align="middle" src="https://data.whicdn.com/images/332407561/original.jpg" />
 </div>
+
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jidevops&title=Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div>
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jidevops&count_private=true&hide=stars&include_all_commits=true&show_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidevops&count_private=true&layout=compact&theme=radical" />
