@@ -7,7 +7,7 @@
 How are you? I'm a DevOps Engineer! 
 
 <div>  
-  <img height="300" align="middle" src="https://jipaik.com/images/Rabbit%20lady.png" />
+  <img height="300" align="middle" src="https://jipaik.com/images/Hurray%20cat%20and%20cute%20hamster%20like%20cat.png" />
 </div>
 
 <br/>
