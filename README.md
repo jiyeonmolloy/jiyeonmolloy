@@ -1,22 +1,17 @@
 # Hi I'm Ji 😄
-[![Linkedin Badge](https://img.shields.io/badge/-JiPaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyeon-ji-paik/)](https://www.linkedin.com/in/jiyeon-ji-paik/)
-[![Email badge](https://img.shields.io/badge/-jyp.jiyeonpaik@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyp.jiyeonpaik)](mailto:jyp.jiyeonpaik)
+[![Linkedin Badge](https://img.shields.io/badge/-JiPaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyeon-ji-paik/)](https://www.linkedin.com/in/jiyeonmolloy/)
 [![LeetCode Badge](https://img.shields.io/badge/-Jiii-black?style=flat-square&logo=LeetCode&link=https://leetcode.com/jiii/)](https://leetcode.com/jiii/)
 [![Dev Badge](https://img.shields.io/badge/-Ji-ff69b4?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/jidevops)](https://dev.to/jidevops)
 
 How are you? I'm a DevOps Engineer! 
 
-<div>  
-  <img height="300" align="middle" src="https://jipaik.com/images/Hurray%20cat%20and%20cute%20hamster%20like%20cat.png" />
-</div>
-
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jidevops&title=Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiyeonmolloy&title=Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jidevops&count_private=true&hide=stars&include_all_commits=true&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidevops&count_private=true&layout=compact&theme=radical" />
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jiyeonmolloy&count_private=true&hide=stars&include_all_commits=true&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonmolloy&count_private=true&layout=compact&theme=radical" />
 </div>
 
 
