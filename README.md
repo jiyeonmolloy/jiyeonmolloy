@@ -3,7 +3,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/-Jiii-black?style=flat-square&logo=LeetCode&link=https://leetcode.com/jiii/)](https://leetcode.com/jiii/)
 [![Dev Badge](https://img.shields.io/badge/-Ji-ff69b4?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/jidevops)](https://dev.to/jidevops)
 
-How are you? I'm a DevOps Engineer! 
+How are you?
 
 <br/>
 
